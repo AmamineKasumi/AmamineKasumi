@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AmamineKasumi/天峰 霞/あまみね かすみ
-- 🔰 I’m a programming beginner.
 - 🐦 My Twitter account is https://twitter.com/AmamineKasumi
 <!---
 AmamineKasumi/AmamineKasumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
